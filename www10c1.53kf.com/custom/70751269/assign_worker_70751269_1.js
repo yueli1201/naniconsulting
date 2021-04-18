@@ -1,1 +1,0 @@
-$53.data("assign_worker",{"assignMode":"auto","autoLink":null,"assignType":"worker","groupShow":"show","offWorkerShow":"show","busyShow":"show","groupExpand":"show","workers":"anna@ecfocus.com,13590308967@qq.com"});
